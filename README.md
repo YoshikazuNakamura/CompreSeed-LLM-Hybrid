@@ -55,9 +55,32 @@ Final Output
 /docs/whitepaper.pdf - Full technical whitepaper (CompreSeed–LLM Architecture)
 /docs/diagram.png - Architecture diagram
 
+## 🚀 Usage (Demo)
 
-**Note:**  
-This repository contains *only safe demonstration code*.  
+### 1. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Run semantic-core extraction (demo)
+```bash
+python mock_semantic_core.py
+```
+
+### 3. Run CPU-based retrieval (demo)
+```bash
+python mock_retrieval.py
+```
+
+### 4. Run the full hybrid pipeline (LLM integration example)
+```bash
+python hybrid_pipeline_demo.py
+```
+
+---
+
+### 📝 Notes
+This repository contains **only safe demonstration code**.  
 Actual CompreSeed algorithms remain proprietary and/or patent-protected.
 
 ---
