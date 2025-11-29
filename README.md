@@ -31,6 +31,7 @@ Millions of documents can be stored and expanded without reprocessing.
 
 ---
 ## 🧠 Architecture Overview
+The following diagram illustrates the end-to-end flow of the CompreSeed–LLM hybrid semantic memory system.
 
 ![Architecture Diagram](architecture.png.png)
 
