@@ -9,8 +9,10 @@ info@xinse.jp
 ## Contact
 info@xinse.jp
 
-## 📄 Whitepapers
-（←ここに PDF の 2 行を貼る）
+### 📄 Whitepapers
+
+- [CompreSeed AI (Full Whitepaper)](./CompreSeed AI.pdf)
+- [CompreSeed–LLM Hybrid Architecture (Technical Paper)](./CompreSeed-LLM Hybrid Architecture.pdf)
 
 ## 🔐 Security & Data Protection
 ...
