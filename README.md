@@ -6,6 +6,25 @@ A CPU-Based, Hallucination-Resistant Semantic Memory System for Large Language M
 For collaboration, research inquiries, or technical questions:  
 info@xinse.jp  
 
+🔐 Security & Data Protection
+
+CompreSeed’s semantic–core compression provides strong security advantages:
+
+Irreversible compression
+Original documents cannot be reconstructed from compressed cores.
+Even if stolen, attackers cannot restore the raw text.
+
+Resistant to ransomware / data exfiltration attacks
+Stolen data is mathematically “useless” without the original source.
+This drastically reduces the impact of intrusion or leaks.
+
+No vector database / no embeddings stored
+No high-dimensional embedding vectors to leak or reverse engineer.
+
+Minimal sensitive information stored
+Only shortened cores (hash, main terms) are kept → extremely low-risk.
+
+CompreSeed is designed to support secure commercial LLM deployments, including enterprise, government, and regulated industries.
 
 CompreSeed is a next-generation **semantic-core retrieval system** that compresses millions of documents into compact, irreversible knowledge units and retrieves them **only on CPU** with high stability and speed.  
 It solves key limitations of modern LLMs:
