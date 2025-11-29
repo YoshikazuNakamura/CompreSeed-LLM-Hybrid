@@ -1,6 +1,12 @@
 # CompreSeed–LLM Hybrid Architecture  
 A CPU-Based, Hallucination-Resistant Semantic Memory System for Large Language Models
 
+📫 **Contact**
+
+For collaboration, research inquiries, or technical questions:  
+info@xinse.jp  
+
+
 CompreSeed is a next-generation **semantic-core retrieval system** that compresses millions of documents into compact, irreversible knowledge units and retrieves them **only on CPU** with high stability and speed.  
 It solves key limitations of modern LLMs:
 
