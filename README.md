@@ -6,6 +6,16 @@ A CPU-Based, Hallucination-Resistant Semantic Memory System for Large Language M
 For collaboration, research inquiries, or technical questions:  
 info@xinse.jp  
 
+## Contact
+info@xinse.jp
+
+## 📄 Whitepapers
+（←ここに PDF の 2 行を貼る）
+
+## 🔐 Security & Data Protection
+...
+
+
 🔐 Security & Data Protection
 
 CompreSeed’s semantic–core compression provides strong security advantages:
