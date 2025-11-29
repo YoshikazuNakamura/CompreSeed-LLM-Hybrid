@@ -30,11 +30,9 @@ The LLM receives clean structured context → near-zero hallucination.
 Millions of documents can be stored and expanded without reprocessing.
 
 ---
-
 ## 🧠 Architecture Overview
 
----
-## 🧠 Architecture Overview
+![Architecture Diagram](architecture.png.png)
 
 User Query
 ↓
