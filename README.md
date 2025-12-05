@@ -105,3 +105,9 @@ For research collaboration, enterprise licensing, or technical inquiries:
 
 If using CompreSeed in research, academic work, or production systems, please cite the relevant whitepapers above.
 
+---
+
+📌 Author Profile (LinkedIn):
+https://www.linkedin.com/in/y-nakamura-ai/
+
+
