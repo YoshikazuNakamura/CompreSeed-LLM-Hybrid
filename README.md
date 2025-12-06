@@ -1,3 +1,8 @@
+📄 **Enterprise Whitepaper (Patent-Pending Architecture, PDF)**  
+➡ [Download PDF](./Patent-Pending.pdf)
+
+---
+
 # CompreSeed–LLM Hybrid Architecture  
 A CPU-Based Semantic Memory System for Large Language Models  
 
